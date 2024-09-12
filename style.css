@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #121212; /* Fondo oscuro tipo Material Design */
+    font-family: 'Roboto', sans-serif; /* Fuente de Material Design */
+}
+
+canvas {
+    display: block;
+}
