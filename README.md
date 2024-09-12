@@ -14,13 +14,13 @@ Este proyecto utiliza Three.js para crear una escena 3D interactiva con cubos qu
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/tu_usuario/spinning-cubes.git
+    https://github.com/CristianRiosHdz/Kaos.git
     ```
 
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd spinning-cubes
+    cd Kaos
     ```
 
 3. **Abre `index.html` en tu navegador**:
