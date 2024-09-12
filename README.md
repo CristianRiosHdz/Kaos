@@ -48,9 +48,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 4. **Haz un push** a tu rama (`git push origin feature/mi-nueva-funcionalidad`).
 5. **Crea un Pull Request**.
 
-## Contacto
-
-Si tienes alguna pregunta o necesitas asistencia, por favor contacta a [tu_correo@example.com](mailto:tu_correo@example.com).
 
 ## Licencia
 
